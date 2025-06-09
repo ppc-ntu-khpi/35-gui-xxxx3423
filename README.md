@@ -122,6 +122,9 @@ public class SWINGDemo {
 }
 ```
 ## Результат:
+![](https://github.com/ppc-ntu-khpi/35-gui-xxxx3423/blob/master/png/1.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/35-gui-xxxx3423/blob/master/png/2.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/35-gui-xxxx3423/blob/master/png/3.png?raw=true)
 
 
 
