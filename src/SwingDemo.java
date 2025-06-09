@@ -1,11 +1,4 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)]
-# UI Lab 3
 
-В ході практичної роботи було виконано **наступне завдання** - [Робота 3: GUI з Swing](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/blob/master/Lab%203%20-%20SWING/Lab%203.md) на оцінку 5. 
-
-## Код доданого класу: 
-
-```java
 import com.mybank.data.DataSource;
 import com.mybank.domain.Bank;
 import com.mybank.domain.CheckingAccount;
@@ -120,11 +113,3 @@ public class SWINGDemo {
     }
 
 }
-```
-## Результат:
-![](https://github.com/ppc-ntu-khpi/35-gui-xxxx3423/blob/master/png/1.png?raw=true)
-![](https://github.com/ppc-ntu-khpi/35-gui-xxxx3423/blob/master/png/2.png?raw=true)
-![](https://github.com/ppc-ntu-khpi/35-gui-xxxx3423/blob/master/png/3.png?raw=true)
-
-
-
